@@ -6,6 +6,9 @@
 <a href="https://github.com/vijayrami">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
+<a href="https://github.com/vijayrami/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijayrami&repo=github-readme-stats" />
+</a>
 
 
 <!--
