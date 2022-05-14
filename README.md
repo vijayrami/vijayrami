@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrami&theme=radical" />
 </a>
 <a href="https://github.com/vijayrami?tab=repositories">
-  <img align="center" src="https://metrics.lecoq.io/vijayrami&theme=radical" />
+  <img align="center" src="https://metrics.lecoq.io/vijayrami" />
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=13213261)
