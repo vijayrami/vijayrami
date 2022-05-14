@@ -11,6 +11,8 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=13213261)
 
+![](https://github4life.herokuapp.com/vijayrami.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Magento2**
