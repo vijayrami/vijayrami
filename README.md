@@ -6,8 +6,6 @@
 <a href="https://github.com/vijayrami">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vijayrami)](https://github.com/vijayrami/github-readme-stats)
-
 
 <!--
 **vijayrami/vijayrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
