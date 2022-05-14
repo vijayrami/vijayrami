@@ -3,7 +3,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=vijayrami&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijayrami&repo=vijayrami" />
 </a>
-<a href="https://github.com/vijayrami/vijayrami">
+<a href="https://github.com/vijayrami">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
 
