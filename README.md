@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
 <a href="https://github.com/vijayrami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijayrami&repo=vijayrami" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijayrami" />
 </a>
 
 
