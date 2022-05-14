@@ -1,6 +1,6 @@
 # Hi I am V:wine_glass:j:heart:Y     R:heart:m:wine_glass: ✨ 👋 👨‍💼 🇮🇳
 
-![](https://komarev.com/ghpvc/?username=vijayrami&style=for-the-badge)
+![](https://gpvc.arturio.dev/vijayrami?style=for-the-badge)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vijayrami&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
