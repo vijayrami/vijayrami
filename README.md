@@ -1,4 +1,4 @@
-### Hi I am V:wine_glass:j:heart:Y     R:heart:m:wine_glass: 👋
+### Hi I am V:wine_glass:j:heart:Y     R:heart:m:wine_glass: ✨ 👋
 
 <a href="https://github-readme-stats.vercel.app/api?username=vijayrami&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayrami&show_icons=true&theme=radical" />
@@ -7,16 +7,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
 
-
-**vijayrami/vijayrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on @magento2
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on **Magento2**
+- 🌱 I’m currently learning **Magento**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about #magento
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
