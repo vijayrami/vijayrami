@@ -10,6 +10,12 @@
 <a href="https://github.com/vijayrami?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
+<a href="https://github.com/vijayrami?tab=repositories">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrami&theme=radical" />
+</a>
+<a href="https://github.com/vijayrami?tab=repositories">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vijayrami&theme=radical" />
+</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijayrami&theme=radical)](https://git.io/streak-stats)
 
