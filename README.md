@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijayrami&repo=vijayrami" />
 </a>
 <a href="https://github.com/vijayrami/vijayrami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijayrami&repo=vijayrami" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
 
 
