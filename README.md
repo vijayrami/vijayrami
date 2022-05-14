@@ -11,6 +11,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijayrami)](https://git.io/streak-stats)
+
 ![](https://hit.yhype.me/github/profile?user_id=13213261)
 
 Here are some ideas to get you started:
