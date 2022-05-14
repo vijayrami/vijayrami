@@ -7,6 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
 
+![Vijay rami's counter](https://hit.yhype.me/github/profile?user_id=13213261)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Magento2**
