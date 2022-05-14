@@ -6,9 +6,7 @@
 <a href="https://github.com/vijayrami">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
-<a href="https://github.com/vijayrami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijayrami" />
-</a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vijayrami)](https://github.com/vijayrami)
 
 
 <!--
