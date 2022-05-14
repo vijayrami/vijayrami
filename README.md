@@ -1,13 +1,13 @@
 # Hi I am V:wine_glass:j:heart:Y     R:heart:m:wine_glass: ✨ 👋 👨‍💼 🇮🇳
 
+![](https://komarev.com/ghpvc/?username=vijayrami&style=for-the-badge)
+
 <a href="https://github.com/vijayrami?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayrami&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/vijayrami?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
-
-![](https://komarev.com/ghpvc/?username=vijayrami&style=for-the-badge)
 
 ![](https://hit.yhype.me/github/profile?user_id=13213261)
 
