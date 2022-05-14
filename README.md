@@ -1,4 +1,4 @@
-### Hi I am V!j@Y R@m! 👋
+### Hi I am V!j:heart:Y R@m! 👋
 
 <a href="https://github-readme-stats.vercel.app/api?username=vijayrami&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayrami&show_icons=true&theme=radical" />
