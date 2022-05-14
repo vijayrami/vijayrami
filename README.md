@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayrami&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami)](https://github.com/vijayrami/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami&layout=compact)](https://github.com/vijayrami/github-readme-stats)
 
 
 <!--
