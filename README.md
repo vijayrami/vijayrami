@@ -1,7 +1,5 @@
 # Hi I am V:wine_glass:j:heart:Y     R:heart:m:wine_glass: ✨ 👋 👨‍💼 🇮🇳
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vijayrami)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![](https://komarev.com/ghpvc/?username=vijayrami&style=for-the-badge)
 
 <a href="https://github.com/vijayrami?tab=repositories">
@@ -10,6 +8,11 @@
 <a href="https://github.com/vijayrami?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
 </a>
+<a href="https://github.com/vijayrami?tab=repositories">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=vijayrami)](https://github.com/ryo-ma/github-profile-trophy" />
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vijayrami)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://hit.yhype.me/github/profile?user_id=13213261)
 
