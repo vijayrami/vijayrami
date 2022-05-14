@@ -13,6 +13,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijayrami&theme=radical)](https://git.io/streak-stats)
 
+[![vijay's github activity graph](https://activity-graph.herokuapp.com/graph?username=vijayrami&theme=radical)](https://github.com/vijayrami/github-readme-activity-graph)
+
+
 ![](https://hit.yhype.me/github/profile?user_id=13213261)
 
 Here are some ideas to get you started:
