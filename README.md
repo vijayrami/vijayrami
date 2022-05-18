@@ -4,7 +4,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vijayrami&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Vijay Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayrami&show_icons=true&theme=radical)
+<a href="https://github.com/vijayrami">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayrami&show_icons=true&theme=radical" />
+</a>
 
 <a href="https://github.com/vijayrami?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrami" />
