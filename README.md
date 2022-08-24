@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vijayrami&style=for-the-badge)
 
-<a class="libutton" style="display: flex; color: #ffffff !important;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vijay-rami" target="_blank">Follow on LinkedIn</a>
+<a class="libutton" style="display: background-color: #0A66C2; flex; border-radius: 16px; height: 32px; width: 200px; outline: none; text-decoration: none !important; flex-direction: justify-content: center; padding: 7px; text-align: center; column; color: #ffffff !important;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vijay-rami" target="_blank">Follow on LinkedIn</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vijayrami&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
