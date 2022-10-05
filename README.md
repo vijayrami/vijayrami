@@ -24,12 +24,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Magento2 PWA**
-- 🌱 I’m currently learning **Magento || PWA || React JS**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about #magento# #pwa# #knockoutJS#
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on **Magento2 PWA projects**
+- 🌱 I’m currently learning **Magento || PWA || || GraphQL || React JS**
+- 👯 I’m looking to collaborate on **GraphQL || PWA || React JS**
+- 🤔 I’m looking for help with **PWA || React JS**
+- 💬 Ask me about #magento# #pwa# #GraphQL #knockoutJS #ReactJS
+- 📫 How to reach me:  vijaymrami@gmail.com or 9662782488
 - 😄 Pronouns: *Aka* 💯 V🍷j:heart:Y R:heart:m:wine_glass: :weight_lifting_man:
 - ⚡ Fun fact: ...
 
