@@ -24,8 +24,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Magento2**
-- 🌱 I’m currently learning **Magento**
+- 🔭 I’m currently working on **Magento2 PWA**
+- 🌱 I’m currently learning **Magento || PWA || React JS**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about #magento# #pwa# #knockoutJS#
