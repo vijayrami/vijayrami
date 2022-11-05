@@ -1,5 +1,7 @@
 # Hi I am V:wine_glass:j:heart:Y     R:heart:m:wine_glass: ✨ 👋 👨‍💼 🇮🇳
 
+[![text.gif](https://i.postimg.cc/prPfwgt2/text.gif)](https://postimg.cc/ygr39pd5)
+
 ![](https://komarev.com/ghpvc/?username=vijayrami&style=for-the-badge)
 
 <a class="libutton" style="display: flex; font-family: 'SF Pro Text', Helvetica, sans-serif;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vijay-rami" target="_blank">Follow on LinkedIn</a>
