@@ -1,6 +1,6 @@
-# Hi I am V:wine_glass:j:heart:Y     R:heart:m:wine_glass: ✨ 👋 👨‍💼 🇮🇳
-
 [![text.gif](https://i.postimg.cc/prPfwgt2/text.gif)](https://postimg.cc/ygr39pd5)
+
+# Hi I am V:wine_glass:j:heart:Y     R:heart:m:wine_glass: ✨ 👋 👨‍💼 🇮🇳
 
 ![](https://komarev.com/ghpvc/?username=vijayrami&style=for-the-badge)
 
