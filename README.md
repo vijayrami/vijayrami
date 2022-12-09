@@ -3,21 +3,6 @@
 # Hi I am V:wine_glass:j:heart:Y     R:heart:m:wine_glass: ✨ 👋 👨‍💼 🇮🇳
 
 ![](https://komarev.com/ghpvc/?username=vijayrami&style=for-the-badge)
-
-<a href="https://www.testdome.com/certificates/e40d8e24d02846f983b9a8a9663f35b9" class="testdome-certificate-stamp gold">
-          <span class="testdome-certificate-name">Vijay Rami</span>
-          <span class="testdome-certificate-test-name">PHP</span>
-          <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
-      </a>
-      <script>
-          var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
-          link = document.createElement("link");
-          link.href = stylesheet,
-          link.type = "text/css",
-          link.rel = "stylesheet",
-          link.media = "screen,print",
-          document.getElementsByTagName("head")[0].appendChild(link);
-      </script>
       
 <a class="libutton" style="display: flex; font-family: 'SF Pro Text', Helvetica, sans-serif;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vijay-rami" target="_blank">Follow on LinkedIn</a>
 
