@@ -32,6 +32,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **PWA || React JS**
 - 💬 Ask me about #magento# #pwa# #GraphQL #knockoutJS #ReactJS
 - 📫 How to reach me:  vijaymrami@gmail.com or 9662782488
-- 😄 Pronouns: *Aka* 💯 V🍷j:heart:Y R:heart:m:wine_glass: :weight_lifting_man:
 - ⚡ Fun fact: ...
 
