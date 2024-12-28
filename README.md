@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a class="libutton" style="display: flex; font-family: 'SF Pro Text', Helvetica, sans-serif;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vijay-rami" target="_blank">Follow on LinkedIn</a>
-    <img src="https://img.shields.io/badge/focus_on_action-dedication_over_words-brightgreen" />
   </div>
+  <div><img src="https://img.shields.io/badge/focus_on_action-dedication_over_words-brightgreen" /></div>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
